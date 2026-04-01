@@ -4,7 +4,7 @@ A clean and professional HTML landing page designed for a cleaning service busin
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here)
+https://github.com/Sybbie57/cleaning-landing-page.git
 
 ## 📌 Features
 
@@ -25,7 +25,8 @@ This project was created to practice building real-world business landing pages 
 
 ## 📷 Preview
 
-(Add a screenshot here)
+<img width="1443" height="667" alt="image" src="https://github.com/user-attachments/assets/e74a31bf-4404-4df8-a9de-a637448ed731" />
+
 
 ## 📬 Contact
 
